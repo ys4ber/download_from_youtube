@@ -4,3 +4,5 @@
 This is a simple script can download videos from youtube.
 
 Have a nice day :) .
+
+python3 download.py
